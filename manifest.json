@@ -1,0 +1,36 @@
+{
+  "name": "Wird \u2014 Premium Islamic Dhikr",
+  "short_name": "Wird",
+  "description": "Ultra Premium Minimalist Islamic Dhikr and Astaghfar Counter. Offline, ad-free, haptic-enabled tasbeeh experience.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040303",
+  "theme_color": "#040303",
+  "dir": "auto",
+  "lang": "en",
+  "categories": ["lifestyle", "utilities"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Start Dhikr",
+      "short_name": "Dhikr",
+      "url": "./index.html",
+      "description": "Open Wird Counter"
+    }
+  ]
+}
